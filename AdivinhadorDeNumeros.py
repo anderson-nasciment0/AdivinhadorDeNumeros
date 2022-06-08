@@ -1,7 +1,3 @@
-'''
-Faça um programa de numeros premiados em que o usuário deve acertar todos os 4 números para ganhar o prêmio,
-o programa deve escrever na tela se o usuário venceu ou perdeu
-'''
 from random import choice
 print('-=-'* 26)
 print('Acerte os quatro numeros premiados entre 1 e 20 para ganhar seu prêmio em dinheiro')
